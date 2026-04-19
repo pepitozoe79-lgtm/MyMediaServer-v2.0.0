@@ -1,0 +1,9 @@
+node_modules/
+.env
+media/
+data/
+*.log
+.DS_Store
+users.json
+iptv.json
+package-lock.json
